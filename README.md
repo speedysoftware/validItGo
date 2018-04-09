@@ -1,2 +1,3 @@
 # validItGo
-a javascript plugin to validate the input
+* a javascript plugin to validate the input
+* like: min, max, required, image, text ... etc 
